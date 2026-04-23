@@ -1,0 +1,19 @@
+timestamp,city,forecast_date,temperature,temperature_min,temperature_max,condition,wind,humidity,pressure,visibility,dew_point,feels_like
+2026-04-23 19:48:13.411295,Chicago,Day 1,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:15.414204,Chicago,Day 2,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:17.417391,Chicago,Day 3,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:19.419234,Chicago,Day 4,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:21.421587,Chicago,Day 5,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:23.423505,Chicago,Day 6,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:25.425234,Chicago,Day 7,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:27.427870,Chicago,Day 8,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:29.430399,Chicago,Day 9,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:31.432102,Chicago,Day 10,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:33.433405,Chicago,Day 11,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:35.435063,Chicago,Day 12,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:37.436570,Chicago,Day 13,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:39.437821,Chicago,Day 14,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:41.439421,Chicago,Day 15,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:43.440899,Chicago,Day 16,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:45.443022,Chicago,Day 17,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
+2026-04-23 19:48:47.444442,Chicago,Day 18,30°C,27°C,33°C,Light rain,10 km/h NE,80%,1012 hPa,10 km,24°C,34°C
